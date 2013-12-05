@@ -3,7 +3,7 @@
 ;#  Descript : Get PACKAGE_HEIGHT_MAX from selected shapes. Type "gsh" after load this skill.
 ;#  Version  : ver1.0          
 ;#  Date     : December 05 2013
-;#  Auther   : Yu-Wei Wang. NB Software Application Sect.
+;#  Author   : Yu-Wei Wang. NB Software Application Sect.
 ;#  comment  : Tested with Allegro v16.6 on Windows 7
 ;###########################################################
 
